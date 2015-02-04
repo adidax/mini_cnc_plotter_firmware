@@ -400,7 +400,3 @@ void penDown() {
     Serial.println("Pen down."); 
   } 
 }
-
-
-
-
