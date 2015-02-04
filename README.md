@@ -1,6 +1,6 @@
 # mini_cnc_plotter_firmware
 
-Firmware for Mini CNC Plotter using Arduino. 
+Firmware for Mini CNC Plotter using Arduino.
 See it in action here: https://www.youtube.com/watch?v=s_W0cPu5Gqs
 
 Look here for more videos and detailed description (German only, sorry):
